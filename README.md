@@ -1,11 +1,11 @@
-# Ahoj, jsem Ilona 👋
+# Hi, I'm Ilona 👋
 
-🌐 Tvořím moderní weby, fotím a natáčím obsah pro sociální sítě a stavím AI automatizace, které lidem šetří čas.
+🌐 I build modern websites, shoot photo/video content for social media, and create AI automations that save people time.
 
-- 🔭 Aktuálně pracuji na: vývoji webových stránek a vlastní aplikaci
-- 🌱 Učím se: AI agenty a automatizace pomocí moderních API
-- 📸 Focení a video mě baví stejně jako kód
-- 💬 Zeptej se mě na: weby, foto/video produkci, nebo AI automatizace
+- 🔭 Currently working on: website development and my own app
+- 🌱 Learning: AI agents and automations with modern APIs
+- 📸 Photography and video are just as fun to me as code
+- 💬 Ask me about: websites, photo/video production, or AI automations
 
 ## Socials
 
@@ -29,10 +29,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats
-
-![Ilonka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilonka945&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=ilonka945&theme=radical)
-
----
-⭐ Mrkni na moje [portfolio](https://github.com/ilonka945) a projekty výše.
+⭐ Check out my [portfolio](https://github.com/ilonka945) and projects above.
