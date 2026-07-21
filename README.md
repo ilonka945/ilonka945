@@ -2,7 +2,7 @@
 
 🌐 Tvořím moderní weby, fotím a natáčím obsah pro sociální sítě a stavím AI automatizace, které lidem šetří čas.
 
-- 🔭 Aktuálně pracuji na: vývoji webových stránek a vlastní aplikaci 
+- 🔭 Aktuálně pracuji na: vývoji webových stránek a vlastní aplikaci
 - 🌱 Učím se: AI agenty a automatizace pomocí moderních API
 - 📸 Focení a video mě baví stejně jako kód
 - 💬 Zeptej se mě na: weby, foto/video produkci, nebo AI automatizace
@@ -22,11 +22,12 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Shoptet](https://img.shields.io/badge/Shoptet-e-shop-orange?style=for-the-badge)
 ![LEGO Mindstorms](https://img.shields.io/badge/LEGO%20Mindstorms-e3000f?style=for-the-badge&logo=lego&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## GitHub Stats
 
