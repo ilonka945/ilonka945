@@ -1,32 +1,137 @@
-# Hi, I'm Ilona 👋
+<div align="center">
 
-🌐 I build modern websites, shoot photo/video content for social media, and create AI automations that save people time.
+# Hi 👋 I'm Ilona
 
-- 🔭 Currently working on: website development and my own app
-- 🌱 Learning: AI agents and automations with modern APIs
-- 📸 Photography and video are just as fun to me as code
-- 💬 Ask me about: websites, photo/video production, or AI automations
+### IT Student • Web Developer • UI/UX Designer • Photographer • Videographer • AI Automation Enthusiast
 
-## Socials
+Building modern websites, digital experiences and AI-powered solutions.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ilonkaik/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilona-musatova-116471332/?locale=cs)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilonka945)
+[🌐 Portfolio](https://musatova.cz) • [💼 LinkedIn](https://linkedin.com/in/YOURUSERNAME) • [📸 Instagram](https://instagram.com/YOURUSERNAME)
 
-## Tech Stack
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![LEGO Mindstorms](https://img.shields.io/badge/LEGO%20Mindstorms-e3000f?style=for-the-badge&logo=lego&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-⭐ Check out my [portfolio](https://github.com/ilonka945) and projects above.
+## 👩‍💻 About Me
+
+🎓 IT Student at SSPŠ Prague
+
+💻 Freelance Web Developer
+
+🎨 UI/UX Designer
+
+📸 Photographer & Videographer
+
+🤖 AI Automation Enthusiast
+
+🚀 Building websites, digital products and AI solutions for businesses.
+
+---
+
+# 💻 Tech Stack
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs&theme=dark" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,cs,postgres,firebase&theme=dark" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Make-6D5BD0?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
+
+### 🎨 Design & Content
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge"/>
+
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel,netlify&theme=dark" />
+</p>
+
+---
+
+# 🌍 Languages
+
+🇨🇿 Czech — Native
+
+🇬🇧 English — B2 (Working Proficiency)
+
+🇷🇺 Russian — Conversational
+
+---
+
+# 🚀 Featured Projects
+
+🌐 Business Websites
+
+🎨 UI/UX Design Projects
+
+📸 Photography Portfolio
+
+🎥 Video Production
+
+🤖 AI Automation Workflows
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+🌐 Website: https://musatova.cz
+
+💼 LinkedIn: https://linkedin.com/in/YOURUSERNAME
+
+📸 Instagram: https://instagram.com/YOURUSERNAME
+
+📧 Email: your@email.com
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Always open to exciting projects, collaborations and new opportunities.
+
+</div>
