@@ -111,20 +111,6 @@ I enjoy combining design, development and creativity into digital products that 
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 🌐 **Portfolio**  
