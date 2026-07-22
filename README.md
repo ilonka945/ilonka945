@@ -122,9 +122,6 @@ https://linkedin.com/in/YOURUSERNAME
 📸 **Instagram**  
 https://instagram.com/YOURUSERNAME
 
-📧 **Email**  
-your@email.com
-
 ---
 
 <div align="center">
