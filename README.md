@@ -11,13 +11,10 @@ Building modern websites, creating engaging digital experiences, and helping bus
 <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-2563EB?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/YOURUSERNAME">
+<a href="https://www.linkedin.com/in/ilona-musatova-116471332/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOURUSERNAME">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
 </p>
 
