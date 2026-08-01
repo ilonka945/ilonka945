@@ -117,7 +117,7 @@ I enjoy combining design, development and creativity into digital products that 
 https://musatova.cz
 
 💼 **LinkedIn**  
-[https://linkedin.com/in/ilona-musatova]
+https://www.linkedin.com/in/ilona-musatova-116471332/
 
 
 ---
